@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodyMullin
 - 👀 I’m interested in the UX of Web Design and Web Development
-- 📫 How to reach me: CodyMullin.tech
+- 📫 How to reach me: CodyMullin.com
 
 <!---
 CodyMullin/CodyMullin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
